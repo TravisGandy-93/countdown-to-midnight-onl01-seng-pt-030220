@@ -8,5 +8,5 @@ def countdown(n)
     n -= 1 
     countdown_with_sleep
   end
-  
+   "Happy NEW YEAR!"
 end
